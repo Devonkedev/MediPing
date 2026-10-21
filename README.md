@@ -1,4 +1,4 @@
-# Remedi (remedi.dev.remedi_app)
+# MediPing
 
 A cross-platform Flutter app scaffolding for the Remedi project. Includes Firebase auth, Firestore, Storage, local Hive reminders, Google Sheets integration, and basic screens.
 
